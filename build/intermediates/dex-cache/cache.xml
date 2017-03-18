@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/exploded-aar/com.nbsp/library/1.09/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0933e84bb6ae46a5d44c01a91231016d785510c6">
+        <dex dex="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/pre-dexed/debug/com.nbsp-library-1.09_119da4c2b6d61665e0fe878037f6d0dfcc1d5202.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dinesh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.1/19047bdb6a4fc00a44124f64ca98e88fc204e7e3/okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/pre-dexed/debug/okhttp-3.3.1_a5a29b714f4634e50b7eb45e784cc2ee5d9efde2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/exploded-aar/com.github.gcacace/signature-pad/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5fa3a4dda218d71d2ddca53005931e6c97641c4d">
+        <dex dex="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/pre-dexed/debug/com.github.gcacace-signature-pad-1.2.1_2f895fb460e393e41160a9b0f59a7154b6bbc3f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_01cf60434c822903d9e8ef38f1a8568859aab193.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_ace51c7a9cd7d2795c03e3bcd6a57fa805e06b1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_40c185f3236bae856531b62f062735aa7e6d4d59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_97cd799d01a2cea4558651f7f2fca1aee89816dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dinesh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_e667d733bd11c5952e8e57e6d4ab4a8188c6bdb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_762f21271af53150182dfaea6b996dde16d116b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_d83c86cbd5e7dc5d715468eef92686d4752b4805.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dinesh/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/pre-dexed/debug/okio-1.8.0_09f414194e6cf1d9f727f123af8bc55b471ccdcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_0984662579f744267b43c38f535ca389411afada.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/exploded-aar/com.android.databinding/adapters/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/pre-dexed/debug/com.android.databinding-adapters-1.2.1_9ea4d25cdcdb708cb664c20a31df90030d8b69ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_dcd60e04daac4293931692d99a76934854fcb516.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/exploded-aar/com.android.databinding/library/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/pre-dexed/debug/com.android.databinding-library-1.2.1_29e14bc655c9e60cf0ba29a402ffc42ad7c75025.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_afdfbfb19c5900689117f37cf5e1194a4e8c3a07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dinesh/Android_studio/android-studio/gradle/m2repository/com/android/databinding/baseLibrary/2.2.3/baseLibrary-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b4b51d1925cdfda98fd861230c1ecb5855500129">
+        <dex dex="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/pre-dexed/debug/baseLibrary-2.2.3_b9417555e9c2025b8484d6fb688049eb1e8bffd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_bbe35eed8069f720987e151d3d9785f6adec053f.jar" />
+    </item>
+
+</items>
