@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">ShapeRecognition</string>
-    <string name="clear_pad">Redraw</string>
+    <string name="clear_pad">Clear</string>
     <string name="save_signature">Save</string>
     <string name="pick_signature">Select</string>
 

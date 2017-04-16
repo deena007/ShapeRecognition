@@ -12,12 +12,12 @@
         "source": "/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/res/merged/debug/drawable-mdpi-v4/sr.JPG",
-        "source": "/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/src/main/res/drawable-mdpi/sr.JPG"
-    },
-    {
         "merged": "/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
         "source": "/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/res/merged/debug/drawable-mdpi-v4/sr.JPG",
+        "source": "/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/src/main/res/drawable-mdpi/sr.JPG"
     },
     {
         "merged": "/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",

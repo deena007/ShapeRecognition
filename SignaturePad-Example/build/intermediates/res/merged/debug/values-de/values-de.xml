@@ -19,6 +19,8 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Freigeben für"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Freigeben für %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Minimieren"</string>
+    <string name="added_new_script">Neues Skript wurde erstellt</string>
+    <string name="browse">Browse</string>
     <string msgid="2785372108150982144" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> erfordert einen oder mehrere Google Play-Dienste, der bzw. die derzeit nicht verfügbar sind. Bitte wenden Sie sich an den Entwickler, um Unterstützung zu erhalten."</string>
     <string msgid="7334167077229901382" name="common_google_play_services_enable_button">"Google Play-Dienste aktivieren"</string>
     <string msgid="2016066508617425489" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> funktioniert erst nach der Aktivierung der Google Play-Dienste."</string>
@@ -48,5 +50,22 @@
     <string msgid="311697239335516384" name="common_open_on_phone">"Auf Smartphone öffnen"</string>
     <string msgid="3156914698180786012" name="common_signin_button_text">"Anmelden"</string>
     <string msgid="1483290677806110088" name="common_signin_button_text_long">"Über Google anmelden"</string>
+    <string name="delete">Löschen</string>
+    <string name="deleted_script">Skript wurde gelöscht</string>
+    <string name="disable">Deaktivieren</string>
+    <string name="disabled_script">Skript wurde deaktiviert</string>
+    <string name="edit">Bearbeiten</string>
+    <string name="edited_script">Skript wurde bearbeitet</string>
+    <string name="enable">Aktivieren</string>
+    <string name="enabled_script">Skript wurde aktiviert</string>
+    <string name="error_downloading_from">Fehler beim Download von</string>
+    <string name="error_parsing_at">Fehler beim Analysieren des Skripts auf</string>
+    <string name="error_saving_script">Fehler beim Speichern des Skripts</string>
+    <string name="error_while_loading">Fehler beim Laden</string>
+    <string name="list_scripts">Skriptliste</string>
+    <string name="new_script_id_exists">Name/Namespace des neuen Skripts existieren bereits</string>
+    <string name="save_script">Skript speichern</string>
+    <string name="starting_download_of">Download wird gestartet von</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="syntax_or_dl_fail">Syntax Fehler oder Abhängigkeiten konnten nicht heruntergeladen werden</string>
 </resources>

@@ -3,6 +3,15 @@
 
     <item
         is-multidex="false"
+        jar="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/exploded-aar/at.pardus.android/webview-gm-ui/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="54eb33d209f2e2226b48ba913c7efdb92fb7aced">
+        <dex dex="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/pre-dexed/debug/at.pardus.android-webview-gm-ui-1.2.0_7ecf7e294f80dee570b49c6bb5bc09d5fc493dca.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/exploded-aar/com.nbsp/library/1.09/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -144,6 +153,15 @@
         revision="25.0.1"
         sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
         <dex dex="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_afdfbfb19c5900689117f37cf5e1194a4e8c3a07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/exploded-aar/at.pardus.android/webview-gm-lib/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5dee6f66e9cfaa85ccbba21cb3bc8e9e49ac7c92">
+        <dex dex="/home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/pre-dexed/debug/at.pardus.android-webview-gm-lib-1.2.0_a804f3407d1f282dc37c669e2f982592e3d44286.jar" />
     </item>
     <item
         is-multidex="false"

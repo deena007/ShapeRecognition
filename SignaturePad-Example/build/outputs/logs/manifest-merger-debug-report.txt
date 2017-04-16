@@ -78,6 +78,8 @@ MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] /home/dines
 MERGED from [com.google.android.gms:play-services-base:8.4.0] /home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/AndroidManifest.xml:18:5-42
 MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:support-v4:23.4.0] /home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
+MERGED from [at.pardus.android:webview-gm-ui:1.2.0] /home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/exploded-aar/at.pardus.android/webview-gm-ui/1.2.0/AndroidManifest.xml:6:5-8:41
+MERGED from [at.pardus.android:webview-gm-lib:1.2.0] /home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/exploded-aar/at.pardus.android/webview-gm-lib/1.2.0/AndroidManifest.xml:6:5-8:41
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:23.4.0] /home/dinesh/AndroidStudioProjects/android-signaturepad-master/SignaturePad-Example/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion

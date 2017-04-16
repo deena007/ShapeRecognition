@@ -17,7 +17,9 @@ import android.support.v4.app.ActivityCompat;
 import android.util.Log;
 import android.view.View;
 import android.webkit.MimeTypeMap;
+import android.webkit.WebView;
 import android.widget.Button;
+import android.widget.RelativeLayout;
 import android.widget.Toast;
 
 import com.github.gcacace.signaturepad.views.SignaturePad;
@@ -50,6 +52,9 @@ public class MainActivity extends Activity {
     private Button mClearButton;
     private Button mSaveButton;
     private Button button;
+    private WebView webView;
+    int backpress;
+    private RelativeLayout signaturePadContainer;
     /**
      * ATTENTION: This was auto-generated to implement the App Indexing API.
      * See https://g.co/AppIndexing/AndroidStudio for more information.
@@ -96,6 +101,8 @@ public class MainActivity extends Activity {
         mClearButton = (Button) findViewById(R.id.clear_button);
         mSaveButton = (Button) findViewById(R.id.save_button);
         button = (Button) findViewById(R.id.button);
+        webView = (WebView) findViewById(R.id.webview);
+        signaturePadContainer = (RelativeLayout) findViewById(R.id.signature_pad_container);
 
         button.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -134,7 +141,27 @@ public class MainActivity extends Activity {
         // ATTENTION: This was auto-generated to implement the App Indexing API.
         // See https://g.co/AppIndexing/AndroidStudio for more information.
         client = new GoogleApiClient.Builder(this).addApi(AppIndex.API).build();
+
+        //webView.setVisibility(View.VISIBLE);
+        //signaturePadContainer.setVisibility(View.GONE);
+        //webView.getSettings().setJavaScriptEnabled(true);
+        //webView.loadUrl("http://172.30.0.20/dinesh/new/index1.php");
     }
+    @Override
+    public void onBackPressed() {
+        backpress = (backpress + 1);
+        Intent mIntent = getIntent();
+        finish();
+        startActivity(mIntent);
+        Toast.makeText(getApplicationContext(), " Press Back again to Exit ", Toast.LENGTH_SHORT).show();
+
+        if (backpress>1) {
+            super.onBackPressed();
+        }
+        // Otherwise defer to system default behavior.
+        //super.onBackPressed();
+    }
+
 
     @Override
     public void onRequestPermissionsResult(int requestCode,
@@ -210,22 +237,6 @@ public class MainActivity extends Activity {
     }
 
 
-/*    private void enable_button() {
-
-        button.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                //Log.d("AAAAAAAAAAAA","dinesh");
-                new MaterialFilePicker()
-                        .withActivity(MainActivity.this)
-                        .withRequestCode(10)
-                        .start();
-
-            }
-        });
-    }*/
-
-
     ProgressDialog progress;
 
     @Override
@@ -255,7 +266,7 @@ public class MainActivity extends Activity {
                             .build();
 
                     Request request = new Request.Builder()
-                            .url("URL_TO_THE_SERVER/YOUR_SCRIPT.php")
+                            .url("http://172.30.0.20/dinesh/cbirselection2.php")
                             .post(request_body)
                             .build();
 
@@ -277,7 +288,10 @@ public class MainActivity extends Activity {
             });
 
             t.start();
-
+            webView.setVisibility(View.VISIBLE);
+            signaturePadContainer.setVisibility(View.GONE);
+            webView.getSettings().setJavaScriptEnabled(true);
+            webView.loadUrl("http://172.30.0.20/dinesh/output.php");
 
         }
     }
@@ -309,6 +323,8 @@ public class MainActivity extends Activity {
 
         return MimeTypeMap.getSingleton().getMimeTypeFromExtension(extension);
     }
+
+
 
     /**
      * ATTENTION: This was auto-generated to implement the App Indexing API.
